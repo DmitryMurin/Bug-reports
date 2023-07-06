@@ -1,1 +1,1 @@
-# Bug-reports
+[![Header](https://github.com/DmitryMurin/Bug-reports/blob/master/assets/HeaderBR.png)](https://github.com/DmitryMurin)
